@@ -137,6 +137,13 @@ header{
     }
 }
 
+/* animaciones nuevas*/
+
+header h1:hover{
+    color: green;
+    font-weight: bold;
+}
+
 /* estilos info */
 #info{
     margin: 4rem;
